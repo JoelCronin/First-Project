@@ -17,15 +17,15 @@ Lastly, I spotted that the 'Search Engine Optimization' link at the top of the p
 
 ## Images
 
-The website now looks liek this which exactly matches the mock-up given to me by Horiseon
+The website now looks like this which exactly matches the mock-up given to me by Horiseon
 
-    ```md
+
     ![alt text](assets/images/screenshot.png)
-    ```
+
 
 ## Credits
 
-I used w3 schools to help with CSS consolidation and also for help with exactyl what tags are semantic and non-semantic
+I used w3 schools to help with CSS consolidation and also for help with exactly what tags are semantic and non-semantic
 
 
 
