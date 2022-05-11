@@ -20,7 +20,7 @@ Lastly, I spotted that the 'Search Engine Optimization' link at the top of the p
 The website now looks like this which exactly matches the mock-up given to me by Horiseon
 
 
-    ![alt text](assets/images/screenshot.png)
+https://raw.githubusercontent.com/JoelCronin/improved-octo-goggles/main/assets/images/screenshot.png
 
 
 ## Credits
