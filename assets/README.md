@@ -24,5 +24,9 @@ Lastly, I spotted that the 'Search Engine Optimization' link at the top of the p
 
 I used w3 schools to help with CSS consolidation and also for help with exactly what tags are semantic and non-semantic
 
+## Access
+
+ [Click here to view the page](https://joelcronin.github.io/improved-octo-goggles/)
+
 
 
